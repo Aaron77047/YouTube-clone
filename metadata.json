@@ -1,0 +1,6 @@
+{
+  "name": "YouTube",
+  "description": "YouTube client with OLED dark mode, video and music uploads, background playback, comments, subscriptions, playlists, offline caching, creator analytics, and interactive playables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
